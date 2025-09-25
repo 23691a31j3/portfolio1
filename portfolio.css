@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin:0;
+    background-color: antiquewhite;
+}
+header{
+    background-color: rgb(106, 106, 197);
+    color: white;
+    padding: 30px;
+}
+section{
+    padding: 20px;
+    border-radius: 15px;
+}
+img {
+    float: left;             /* aligns image to left */
+    width: 100px;             /* smaller width */
+    height: auto;            /* keeps aspect ratio */
+    margin-right: 10px;      /* space between image and text */
+    border-radius: 5px;
+    /* optional: rounded corners */
+}

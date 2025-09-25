@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px;
+    background-color: antiquewhite;
+}
+h1{
+    color:white;
+    background-color: blue;
+    text-align: center;
+}
+nav{
+    background-color: rgb(29, 163, 6);
+    color: aliceblue;
+    text-align: right;
+}
